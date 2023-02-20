@@ -26,7 +26,7 @@ int main(){
         }
     }
     cout << cnt << '\n';
-    for(int i = 0; i < n; i++){
+    for(int i = 0; i < output.size(); i++){
         cout << output[i] << '\n';
     }
     return 0;
